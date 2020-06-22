@@ -1,11 +1,19 @@
 
 ## Ciphers
   * [Caesarcipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/CaesarCipher.go)
+  * [Diffiehellmankeyexchange](https://github.com/TheAlgorithms/Go/blob/master/ciphers/diffieHellmanKeyExchange.go)
+  * [Rsacipher(Big)](https://github.com/TheAlgorithms/Go/blob/master/ciphers/RSAcipher(Big).go)
+  * [Rsacipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/RSAcipher.go)
+  * [Xorcipher](https://github.com/TheAlgorithms/Go/blob/master/ciphers/xorCipher.go)
 
 ## Data-Structures
   * Binary-Tree
     * [Binary-Search-Tree](https://github.com/TheAlgorithms/Go/blob/master/data-structures/binary-tree/binary-search-tree.go)
     * [Binary-Tree](https://github.com/TheAlgorithms/Go/blob/master/data-structures/binary-tree/binary-tree.go)
+  * Dynamic-Array
+    * [Dynamic Array](https://github.com/TheAlgorithms/Go/blob/master/data-structures/dynamic-array/dynamic_array.go)
+  * Hash-Map
+    * [Hash Map](https://github.com/TheAlgorithms/Go/blob/master/data-structures/hash-map/hash_map.go)
   * Linked-List
     * [Double-Linkedlist](https://github.com/TheAlgorithms/Go/blob/master/data-structures/linked-list/double-linkedlist.go)
     * [Linkedlist](https://github.com/TheAlgorithms/Go/blob/master/data-structures/linked-list/Linkedlist.go)
@@ -16,6 +24,7 @@
 
 ## Dynamic-Programming
   * [Longest-Palindromic-Subsequence](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/longest-palindromic-subsequence.go)
+  * [Longestcommonsubsequence](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/longestCommonSubsequence.go)
   * [Matrix-Multiplication](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/matrix-multiplication.go)
   * [Rod-Cutting](https://github.com/TheAlgorithms/Go/blob/master/dynamic-programming/rod-cutting.go)
 
@@ -44,4 +53,12 @@
   * [Topological Sort](https://github.com/TheAlgorithms/Go/blob/master/sorts/topological_sort.go)
 
 ## Strings
+  * Multiple String Matching
+    * [Ac](https://github.com/TheAlgorithms/Go/blob/master/strings/multiple%20string%20matching/ac.go)
+    * [Adac](https://github.com/TheAlgorithms/Go/blob/master/strings/multiple%20string%20matching/adac.go)
+    * [Sbom](https://github.com/TheAlgorithms/Go/blob/master/strings/multiple%20string%20matching/sbom.go)
   * [Naivestringsearch](https://github.com/TheAlgorithms/Go/blob/master/strings/naiveStringSearch.go)
+  * Single String Matching
+    * [Bom](https://github.com/TheAlgorithms/Go/blob/master/strings/single%20string%20matching/bom.go)
+    * [Horspool](https://github.com/TheAlgorithms/Go/blob/master/strings/single%20string%20matching/horspool.go)
+    * [Kmp](https://github.com/TheAlgorithms/Go/blob/master/strings/single%20string%20matching/kmp.go)
