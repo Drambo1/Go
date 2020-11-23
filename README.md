@@ -1,11 +1,14 @@
 # The Algorithms - Go
 
+![golangci-lint](https://github.com/TheAlgorithms/Go/workflows/golangci-lint/badge.svg)
+![Go](https://github.com/TheAlgorithms/Go/workflows/Go/badge.svg)
+![update_directory_md](https://github.com/TheAlgorithms/Go/workflows/update_directory_md/badge.svg)
+
 ### Algorithms implemented in Go (for education)
 
 These algorithms are for demonstration purposes only. There are many sort implementations in the Go standard library that may have better performance.
 
 For a full list of all algorithms, please see: [DIRECTORY.md](https://github.com/TheAlgorithms/Go/blob/master/DIRECTORY.md)
-Also see: https://algorithmswithgo.com
 
 ## Sort Algorithms
 
